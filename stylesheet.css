@@ -18,6 +18,8 @@ html, body {
     justify-content: center;
     align-items: center;
     
+    /*gap???*/
+    
 }
 
 
@@ -55,8 +57,28 @@ html, body {
  flex-direction: column;
  flex-wrap: wrap;
  align-content: center;
+
+ padding: 50px;
+}
+
+.content{
+  display: flex;
+ flex-direction: column;
+ flex-wrap: wrap;
+ align-content: center;
+
+ 
+ padding: 50px;
+ 
 }
 
 
 
+.projects {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
 
+  padding: 50px;
+
+}
