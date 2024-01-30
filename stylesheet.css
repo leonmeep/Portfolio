@@ -30,7 +30,7 @@ html, body {
 
 /*all other pages*/
 
-.container {
+.other {
   height: 600px;
   display: flex;
   flex-direction: row;
@@ -39,6 +39,10 @@ html, body {
   justify-content: center;
   align-items: center;
   gap: 20px;
+}
+
+.menu2 {
+  text-decoration: none;
 }
 
 
