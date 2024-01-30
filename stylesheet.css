@@ -19,3 +19,6 @@ nav {
     align-items: center;
 }
 
+.items .item {
+  text-decoration: none;
+}
