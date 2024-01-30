@@ -1,0 +1,18 @@
+{
+    "projects": [
+      {
+        "name": "Artist Profile - Vivienne Gibbon",
+        "img": "artist-profile.png",
+        "desc": "A preofesional artist profile including imgages, contact information and exhibitions."
+      },
+      {
+        "name": "Marvellous Crochet",
+        "img": "crochet-shop.png",
+        "desc": "A site for selling a variety of pre-made crochet items and advertising a commision service."
+      },
+      {
+        "name": "Happy Paws",
+        "img": "dog-walking.png",
+        "desc": "A site advertising a local dog walking service, which includes a booking form."
+      }]
+}
