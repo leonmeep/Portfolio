@@ -8,17 +8,21 @@ html, body {
     display: inline;
   }
 
-
-nav {
+ nav {
     height: 600px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
     align-items: center;
+    gap: 40px;
 }
 
-.items .item {
+nav .item {
   text-decoration: none;
 }
+
+
+
+
