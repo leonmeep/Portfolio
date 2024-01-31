@@ -77,7 +77,7 @@ html, body {
 .projects {
   display: flex;
   justify-content: center;
-  gap: 100px;
+  gap: 200px;
 
   padding: 50px;
 
