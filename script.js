@@ -24,3 +24,8 @@ fetch ('projects.json').then(function (response) {
    })
 })
 
+
+document.querySelector('.nose').addEventListener ('click' , function () {
+   alert("ACHOO")
+}
+)
