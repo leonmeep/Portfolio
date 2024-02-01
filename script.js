@@ -29,3 +29,15 @@ document.querySelector('.nose').addEventListener ('click' , function () {
    alert("ACHOO")
 }
 )
+
+document.querySelector('.menu2 nose').addEventListener ('click' , function () {
+    alert("ACHOO")
+ })
+
+ 
+
+//  document.querySelector('.menu1 menu2').addEventListener('mouseover', function() {
+
+
+
+//  })
