@@ -18,6 +18,7 @@ fetch ('projects.json').then(function (response) {
     <h3>${project.name}</h3>
     <img src='${project.img}'/>
     <p>${project.desc}</p>
+    <button>${project.github}</button>
     </div>`
 
 
@@ -40,10 +41,13 @@ fetch ('projects.json').then(function (response) {
 
  changeText.addEventListener("click", function() {
    changeText.textContent = "ACHOOOOOOO!";
- });
+
+ }) 
+
 
  const changetext = document.querySelector('.menu2 nose');
 
  changetext.addEventListener("click", function() {
    changetext.textContent = "ACHOOOOOOO!";
  });
+

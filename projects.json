@@ -4,7 +4,7 @@
         "name": "Artist Profile - Vivienne Gibbon",
         "img": "portfolio-images/artist-profile.png",
         "desc": "A professional artist profile including imgages, contact details and exhibitions.",
-        "github":""
+        "github":"Learn More on GitHub"
 
       },
 
@@ -12,7 +12,7 @@
         "name": "Marvellous Crochet",
         "img":"portfolio-images/crochet-shop.png",
         "desc": "A site for selling a variety of pre-made crochet items and advertising a commision service.",
-        "github":""
+        "github":"Learn More on GitHub"
 
       },
 
@@ -20,6 +20,6 @@
         "name": "Happy Paws",
         "img": "portfolio-images/dog-walking.png",
         "desc": "A site advertising a local dog walking service, which includes a booking form.",
-        "github":""
+        "github":"Learn More on GitHub"
       }]
 }
