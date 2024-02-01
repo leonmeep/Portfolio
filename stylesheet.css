@@ -23,17 +23,22 @@ html, body {
     
 }
 
+
+
+
 img {
   width: 80px;
 }
 
 .menu1 {
   text-decoration: none;
-
-
-  
+  transition: height 8s;
+ 
 }
-
+.menu1:hover {
+  height: 90px;
+  transition-timing-function: ease-out; 
+}
 
 .hidden{
   display: none;
