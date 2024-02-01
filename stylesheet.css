@@ -22,6 +22,9 @@ html, body {
     
 }
 
+img {
+  width: 80px;
+}
 
 .menu1 {
   text-decoration: none;
