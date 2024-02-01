@@ -81,6 +81,11 @@ html, body {
   justify-content: center;
 }
 
+.items {
+  display: flex;
+  flex-direction: column;
+}
+
 .portfolio h3{
   display: flex;
   flex-direction: row;
@@ -90,18 +95,14 @@ html, body {
 }
 
 .portfolio img {
-
-
-margin: 0 100px;
-padding: 0 50px;
-
-
- 
-
+  margin: 0 100px;
+  padding: 0 50px;
   width: 200px;
   object-fit: contain;
-  
-
 
 }
 
+p {
+  margin: 20px;
+  padding: 30px;
+}

@@ -14,7 +14,7 @@ fetch ('projects.json').then(function (response) {
    data.projects.forEach(function (project) {
     console.log(project)
 
-    projectTarget.innerHTML += `<div>
+    projectTarget.innerHTML += `<div class="items">
     <h3>${project.name}</h3>
     <img src='${project.img}'/>
     <p>${project.desc}</p>
