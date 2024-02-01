@@ -31,7 +31,8 @@ img {
   
 }
 
-p {
+
+.hidden{
   display: none;
 }
 /* end of homepage */
@@ -45,7 +46,7 @@ p {
  flex-direction: row;
  flex-wrap: wrap;
  justify-content: center;
- align-content: flex-start;
+ align-items: center;
  gap: 50px;
 
  margin: 5px;
