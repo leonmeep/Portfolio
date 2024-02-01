@@ -25,19 +25,25 @@ fetch ('projects.json').then(function (response) {
 })
 
 
-document.querySelector('.nose').addEventListener ('click' , function () {
-   alert("ACHOO")
-}
-)
+// document.querySelector('.nose').addEventListener ('click' , function () {
+//    alert("ACHOO")
+// }
+// )
 
-document.querySelector('.menu2 nose').addEventListener ('click' , function () {
-    alert("ACHOO")
- })
-
- 
-
-//  document.querySelector('.menu1 menu2').addEventListener('mouseover', function() {
-
-
-
+// document.querySelector('.menu2 nose').addEventListener ('click' , function () {
+//     alert("ACHOO")
 //  })
+
+
+
+ const changeText = document.querySelector('.nose');
+
+ changeText.addEventListener("click", function() {
+   changeText.textContent = "ACHOOOOOOO!";
+ });
+
+ const changetext = document.querySelector('.menu2 nose');
+
+ changetext.addEventListener("click", function() {
+   changetext.textContent = "ACHOOOOOOO!";
+ });
