@@ -25,7 +25,7 @@ fetch ('projects.json').then(function (response) {
    })
 })
 
-
+/*box with button*/
 // document.querySelector('.nose').addEventListener ('click' , function () {
 //    alert("ACHOO")
 // }
@@ -36,6 +36,8 @@ fetch ('projects.json').then(function (response) {
 //  })
 
 
+
+/*click nose goes to text*/
 
  const changeText = document.querySelector('.nose');
 
@@ -50,4 +52,6 @@ fetch ('projects.json').then(function (response) {
  changetext.addEventListener("click", function() {
    changetext.textContent = "ACHOOOOOOO!";
  });
+ 
+ 
 
