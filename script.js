@@ -25,33 +25,25 @@ fetch ('projects.json').then(function (response) {
    })
 })
 
-/*box with button*/
-document.querySelector('.nose').addEventListener ('click' , function () {
-   alert("AaaaaaaaaCHOO!")
-}
-)
 
-document.querySelector('.menu2 nose').addEventListener ('click' , function () {
-    alert("AaaaaaaaaCHOO!")
- })
 
 
 
 /*click nose goes to text*/
 
-//  const changeText = document.querySelector('.nose');
+ const changeText = document.querySelector('.nose');
 
-//  changeText.addEventListener("click", function() {
-//    changeText.textContent = "ACHOOOOOOO!";
+ changeText.addEventListener("click", function() {
+   changeText.textContent = "ACHOOOOOOO!";
 
-//  }) 
+  }) 
 
 
-//  const changetext = document.querySelector('.menu2 nose');
+  const changetext = document.querySelector('.menu2 nose');
 
-//  changetext.addEventListener("click", function() {
-//    changetext.textContent = "ACHOOOOOOO!";
-//  });
+ changetext.addEventListener("click", function() {
+    changetext.textContent = "ACHOOOOOOO!";
+ });
  
  
 
