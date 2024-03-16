@@ -19,8 +19,8 @@ fetch ('projects.json').then(function (response) {
     <img src='${project.img}'/>
     <p>${project.desc}</p>
     <button>${project.github}</button>
-    </div>`
-
+    <button>${project.link}</button>
+    </div>`;
 
    })
 })
