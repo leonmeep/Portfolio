@@ -22,7 +22,7 @@ html, body {
     align-items: center;
     gap: 50px;
 
-    padding-top: 100px;
+    padding-top: 30px;
     
     
 }
@@ -81,6 +81,7 @@ img {
  flex-direction: column;
  flex-wrap: wrap;
  align-content: center;
+ align-items: center;
 
  
  padding: 50px;
