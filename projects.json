@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Blog Site",
-      "img": "Portfolio/blogsite.png",
+      "img": "images/blogsite.png",
       "desc": "A frong blogging platform where users can create and comment on posts, as well as deleting and like and disliking. ",
       "github": "<a href='https://github.com/iO-Academy/24-jan-frolicking-frogs-blogging-site'>Learn More on GitHub</a>",
       "link": "<a href='https://24-frolickingfrogs-blog.dev.io-academy.uk' target= 'blank'>Check it out</a>"
@@ -10,7 +10,7 @@
 
     {
       "name": "Job Search Site",
-      "img": "Portfolio/jobsearch.png",
+      "img": "images/jobsearch.png",
       "desc": "A site for listing, searching and apllying for various jobs.",
       "github": "<a href='https://github.com/iO-Academy/24-jan-frolicking-frogs-jobsearch'>Learn More on GitHub</a>",
       "link": "<a href='https://github.com/leonmeep/collection-app' target= 'blank'>Check it out</a>"
@@ -18,9 +18,10 @@
 
     {
       "name": "Collection App",
-      "img": "portfolio-images/dog-walking.png",
-      "desc": "An api built using Sequel Ace and php. Users can create, edit and delete items.",
-      "github": "<a href = 'https://github.com/leonmeep/collection-app' target= 'blank'>Learn More on GitHub</a>"
+      "img": "images/Simpsons_cast.png",
+      "desc": "An api built using Sequel Ace and php. Users can create, edit and delete a collection of quotes from The Simpsons.",
+      "github": "<a href = 'https://github.com/leonmeep/collection-app' target= 'blank'>Learn More on GitHub</a>",
+      "link": "<a href='https://nohomers.net/forums/index.php' target= 'blank'>Simpsons fan?</a>"
     }
   ]
 }
